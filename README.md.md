@@ -1,6 +1,6 @@
 ### 1\.**Introduction:**
 
-			Is repository ma PF ky 30 jo program Implementation ky leya deya gy ty, vo include hay. In 30 programs ko ma na C++ ma implement kia ha.
+			My name is Subhan. My roll number is 25014119-132. My depertment is CS(Evening). Is repository ma PF ky 30 jo program Implementation ky leya deya gy ty, vo include hay. In 30 programs ko ma na C++ ma implement kia ha.
 
 
 
@@ -110,5 +110,6 @@
 
 
 	
+
 
 
